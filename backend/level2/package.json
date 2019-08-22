@@ -1,0 +1,12 @@
+{
+    "name": "shipup-test-backend-level1",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "./main.js",
+    "scripts": {
+        "dev": "node main.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.15"
+    }
+}
